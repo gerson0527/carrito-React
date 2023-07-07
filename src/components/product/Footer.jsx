@@ -5,7 +5,7 @@ function Footer() {
     <footer className="bg-black py-2 px-4 hover:bg-orange-600">
       <div className="flex justify-center">
         <a
-          href="https://www.linkedin.com/in/jostin-arley-hurtado-hinestroza-57ab49255/"
+          href="https://www.linkedin.com/in/gerson-ortiz-rivera-desarrollofrontend/"
           target="_blank"
           rel="noreferrer"
         >
@@ -14,7 +14,11 @@ function Footer() {
             size={35}
           />
         </a>
-        <a href="https://github.com/QITO17" target="_blank" rel="noreferrer">
+        <a
+          href="https://github.com/gerson0527"
+          target="_blank"
+          rel="noreferrer"
+        >
           <FaGithub
             className="text-white mx-2 hover:text-gray-500 transition duration-500 transform hover:scale-110 focus:scale-110 mt-6"
             size={35}
